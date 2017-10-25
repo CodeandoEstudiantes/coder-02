@@ -31,6 +31,7 @@ Si quieres aprender más sobre este tema, puedes visitar:
   * [Microsoft Virtual Academy: Javascript Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/javascript-fundamentals-for-absolute-beginners-14194?l=eLg5iZ1eB_6100115888)
   * [Microsoft Virtual Academy: HTML5 & CSS3 Fundamentals: Development for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207?l=TBf1QdFfB_2500115888)
   * [Code.org: Styling Text With CSS](https://curriculum.code.org/csd/unit2/10/#styling-text-with-css2)
+  * [Mozilla: Learn CSS - Stylint Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
   
 Consulta el resto de retos y lecciones de Hacking Cívico en el portal de [Estudiantes](https://www.codeandomexico.org/estudiantes).
 
